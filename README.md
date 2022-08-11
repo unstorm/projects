@@ -1,0 +1,1 @@
+nuxt3에서 api 통신 가능하게 만드는 테스트 spring boot project
